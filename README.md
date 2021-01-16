@@ -3,7 +3,7 @@
 
 ## Feature
 Here is the feature of demos using `TGActivityView`.
-<img src="https://github.com/twiglau/TGActivityView/blob/main/loading.png" style="width:300px">
+<img src="https://github.com/twiglau/TGActivityView/blob/main/loading.png" width = "200">
 
 ## How to use it?
 Add the following codes:
